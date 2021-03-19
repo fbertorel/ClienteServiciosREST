@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/fbert/Downloads/httpcomponents-client-4.5.9-bin/httpcomponents-client-4.5.9/lib/httpclient-cache-4.5.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fbert/Downloads/httpcomponents-client-4.5.9-bin/httpcomponents-client-4.5.9/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fbert/Downloads/httpcomponents-client-4.5.9-bin/httpcomponents-client-4.5.9/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fbert/Downloads/httpcomponents-client-4.5.9-bin/httpcomponents-client-4.5.9/lib/fluent-hc-4.5.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fbert/Downloads/httpcomponents-client-4.5.9-bin/httpcomponents-client-4.5.9/lib/httpclient-4.5.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fbert/Downloads/httpcomponents-client-4.5.9-bin/httpcomponents-client-4.5.9/lib/httpclient-osgi-4.5.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fbert/Downloads/httpcomponents-client-4.5.9-bin/httpcomponents-client-4.5.9/lib/httpclient-win-4.5.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fbert/Downloads/httpcomponents-client-4.5.9-bin/httpcomponents-client-4.5.9/lib/httpcore-4.4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fbert/Downloads/httpcomponents-client-4.5.9-bin/httpcomponents-client-4.5.9/lib/httpmime-4.5.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fbert/Downloads/httpcomponents-client-4.5.9-bin/httpcomponents-client-4.5.9/lib/jna-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fbert/Downloads/httpcomponents-client-4.5.9-bin/httpcomponents-client-4.5.9/lib/jna-platform-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fbert/Desktop/TP LABO/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fbert/Desktop/TP LABO/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_251/src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

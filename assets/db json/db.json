@@ -1,0 +1,231 @@
+{
+  "users": [
+    {
+      "firstName": "Juice",
+      "lastName": "WRLD",
+      "subjectID": 2,
+      "commentID": 1,
+      "id": 1
+    },
+    {
+      "firstName": "Charles",
+      "lastName": "Prince",
+      "AKA": "Taco",
+      "id": 2
+    },
+    {
+      "firstName": "Kael",
+      "lastName": "Soze",
+      "Position": "Trooper",
+      "id": 3
+    },
+    {
+      "nombre": "Vader",
+      "personaje": "Eugene",
+      "age": "35+",
+      "id": 5
+    },
+    {
+      "firstName": "A.J",
+      "lastName": "Hunter",
+      "Position": "Sgt.",
+      "id": 7
+    },
+    {
+      "lastName": "Messi",
+      "firstName": "Anto",
+      "club": "Barcelona",
+      "id": 8
+    },
+    {
+      "lastName": "Messi",
+      "firstName": "Anto",
+      "club": "Barcelona",
+      "speed": "97",
+      "id": 10
+    },
+    {
+      "lastName": "Andrade",
+      "firstName": "Moni",
+      "club": "RealMadrid",
+      "id": 12
+    },
+    {
+      "lastName": "JAJAJA",
+      "firstName": "Leo",
+      "club": "CABJ",
+      "id": 13
+    },
+    {
+      "apellido": "Bullet",
+      "id": 15,
+      "nombre": "Randy"
+    },
+    {
+      "artista": "eminem",
+      "cancion": "coffin",
+      "ft": "jessie",
+      "id": 16
+    },
+    {
+      "lastName": "NISMAN",
+      "firstName": "Leo",
+      "club": "CABJ",
+      "id": 17
+    },
+    {
+      "firstName": "Brian",
+      "lastName": "Knight",
+      "asd": "123",
+      "id": 20
+    },
+    {
+      "firstName": "Boe",
+      "lastName": "Jangles",
+      "AKA": "Blue",
+      "id": 21
+    },
+    {
+      "firstName": "Marcela",
+      "lastName": "Pallero",
+      "job": "Profesora",
+      "id": 22
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Williams",
+      "AKA": "The-missile",
+      "id": 23
+    },
+    {
+      "nombre": "Novah",
+      "apellido": "Walker",
+      "id": 25
+    },
+    {
+      "lastName": "QCYO",
+      "firstName": "Niidea",
+      "club": "Valencia",
+      "id": 26
+    },
+    {
+      "nombre": "WOS",
+      "profesion": "artista",
+      "id": 27
+    },
+    {
+      "nombre": "El Trueno",
+      "profesion": "artista",
+      "id": 28
+    },
+    {
+      "nombre": "Homer El Mero Mero",
+      "productor": "Bizzarap",
+      "cancion": "Mussic Session",
+      "id": 29
+    },
+    {
+      "id": 30,
+      "nombre": "Gaston"
+    },
+    {
+      "carrera": "Licenciatura",
+      "facultad": "UP",
+      "id": 32
+    },
+    {
+      "nombre": "Black Magic",
+      "ft": "Skylar Gray",
+      "id": 33
+    },
+    {
+      "dola": "33",
+      "id": 34
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "name": "Maths"
+    },
+    {
+      "id": 2,
+      "name": "Musico"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Favoritos": [
+    {
+      "Musico": "http://localhost:3000/users?id=1",
+      "id": 1
+    }
+  ],
+  "futbol": [
+    {
+      "lastName": "Messi",
+      "firstName": "Lionel",
+      "club": "Barcelona",
+      "dorsal": "10",
+      "id": 1
+    },
+    {
+      "lastName": "Suarez",
+      "firstName": "Luis",
+      "dorsal": "9",
+      "club": "Barcelona",
+      "id": 2
+    },
+    {
+      "lastName": "Ronaldo",
+      "firstName": "Cristiano",
+      "dorsal": "7",
+      "club": "Juventus",
+      "id": 3
+    },
+    {
+      "lastName": "Lewandowski",
+      "firstName": "Robert",
+      "club": "Bayern",
+      "dorsal": "9",
+      "id": 4
+    },
+    {
+      "lastName": "Aguero",
+      "firstName": "Sergio",
+      "dorsal": "10",
+      "club": "Manchester City",
+      "id": 5
+    },
+    {
+      "lastName": "Van Dijk",
+      "firstName": "Virgil",
+      "dorsal": "4",
+      "club": "Liverpool",
+      "id": 6
+    },
+    {
+      "lastName": "Maradona",
+      "firstName": "Diego",
+      "club": "Boca Juniors",
+      "dorsal": "10",
+      "id": 7
+    },
+    {
+      "nombre": "Adrian",
+      "apellido": "Nisim",
+      "club": "River",
+      "dorsal": "8",
+      "id": 8
+    },
+    {
+      "dorsal": "10",
+      "id": 9
+    }
+  ]
+}

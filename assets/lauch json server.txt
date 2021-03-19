@@ -1,0 +1,9 @@
+https://medium.com/chaya-thilakumara/how-to-create-a-local-api-server-rest-api-for-testing-945bbb2d31b7
+
+
+
+tirar comando en powershell
+
+json-server --watch db.json
+
+https://www.youtube.com/watch?v=7vx0RIwHVzg&ab_channel=AutomationStepbyStep-RaghavPal
